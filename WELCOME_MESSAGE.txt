@@ -1,3 +1,7 @@
 Welcome to the *Archivers Slack*!
 
-Please don't forget to say hello in #introductions!
+Slack is an instant messaging app for distributed teams. We use it to co-ordinate conversation and collaboration around the archiving of potentially vulnerable government data and documents.
+
+If you are here to discuss the Department of the Interior documents destruction request, please make your way to #doirecords (just click on the highlighted link in that word!).
+
+Otherwise, please say hello in #introductions and let us know what you're interested in!
