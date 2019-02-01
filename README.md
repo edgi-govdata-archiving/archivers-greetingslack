@@ -1,3 +1,5 @@
+[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-blue.svg?style=flat)](https://github.com/edgi-govdata-archiving/overview/blob/master/CONDUCT.md)
+
 # Greetings Slackers
 This simple script written in basic Python will allow you to hook into the real time API of Slack and perform a greeting to every new joiner!
 Usually this is used to tell new joiners about the network, the guidelines, rules, useful links etc etc
